@@ -12,6 +12,6 @@
 Azure Fundamentals
 
 [![LinkedIn Badge](https://img.shields.io/badge/AZ-900-0078D4?style=for-the-badge&logo=Azure)](https://docs.microsoft.com/pt-br/certifications/azure-fundamentals/)
-[![LinkedIn Badge](https://img.shields.io/badge/⏳-Estudando-yellow?style=for-the-badge&logo=Azure)](https://www.linkedin.com/in/faabiobatista/)
+[![LinkedIn Badge](https://img.shields.io/badge/⏳-Estudando-yellow?style=for-the-badge&logo=Azure)](https://github.com/ofabiobatista/AZ-900)
 
 <!-- [![Fábio Batista GitHub stats](https://github-readme-stats.vercel.app/api?username=ofabiobatista&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
