@@ -2,6 +2,11 @@
 
 Seja bem-vindo ao meu repositório! Aqui eu vou postar sobre meus estudos e minhas revisões.
 
+<div>
+  <a href="https://github.com/ofabiobatista">
+  <img height="180cm" src="https://www.github-readme-stats.vercel.app/api?username=ofabiobatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+</div>
+
 ## Redes Sociais
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/faabiobatista/)
 
