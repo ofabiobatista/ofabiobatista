@@ -6,7 +6,7 @@
 [![Azure](https://badgen.net/badge/icon/Azure/0078D4?icon=azure&label)](https://azure.microsoft.com) 
 [![Github](https://badgen.net/badge/icon/GitHub/181717?icon=github&label)](https://github.com/ofabiobatista) 
 [![LinkedIn](https://badgen.net/badge/icon/LinkedIn/0A66C2?icon=linkedin&label)](https://www.linkedin.com/in/faabiobatista/)
-[![Instagram](https://badgen.net/badge/icon/Instagram/0A66C2?icon=instagram&label)](https://www.linkedin.com/in/faabiobatista/)
+[![Instagram](https://badgen.net/badge/icon/Instagram/E4405F?icon=instagram&label)](https://www.linkedin.com/in/faabiobatista/)
 
 ## About me
 
