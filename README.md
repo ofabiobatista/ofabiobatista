@@ -1,6 +1,9 @@
 <h1 align="center"> Hi! I'm Fábio Batista 👋 </h1>
 
 <p align="center"> Welcome to my workspace! Here is the place where i share my studies, make my reviews, and practice my english. </p>
+
+After a huge change in my personal life, i start search a new area to study and try a new profission. Cloud Computing call my attention and since then i'm start do a loot of search and take classes about it.
+
 <!--
 **ofabiobatista/ofabiobatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
