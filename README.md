@@ -3,10 +3,11 @@
 <p align="center"> Welcome to my workspace! Here is the place where i share my studies, make my reviews, and practice my english. </p>
 
 [<h1 align="center">
-  [![Badges]
+  [![Badges][GitHub]][badges-url]
 </h1>
 
-[![Badge](https://img.shields.io/badge/GitHub-FABIOBATISTA-181717?style=for-the-badge&logo=GitHub)](https://github.com/ofabiobatista)
+[![GitHub]: https://img.shields.io/badge/GitHub-FABIOBATISTA-181717?style=for-the-badge&logo=GitHub
+[badges-url]: https://github.com/ofabiobatista
 [![Badge](https://img.shields.io/badge/LinkedIn-FABIOBATISTA-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/faabiobatista/)
 
 ## About me
