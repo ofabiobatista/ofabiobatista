@@ -4,7 +4,7 @@ Seja bem-vindo ao meu repositório! Aqui eu vou postar sobre meus estudos e minh
 
 <div>
   <a href="https://github.com/ofabiobatista">
-  <img height="180cm" src="https://www.github-readme-stats.vercel.app/api?username=ofabiobatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="180cm" src="https://www.github-readme-stats.vercel.app/api?username=ofabiobatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Redes Sociais
