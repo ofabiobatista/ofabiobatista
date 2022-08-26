@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! Eu sou o Fábio Batista / Hi! I'm Fábio Batista 👋 </h1>
+<h1 align="center"> Hi! I'm Fábio Batista 👋 </h1>
 
 ### Wellcome to my workspace. Here is the place where i share my studies lesson's and make my review's, and obvious practice my english.
 <!--
