@@ -1,4 +1,4 @@
-## Olá! Eu sou o Fábio 👋 estudante de *Cloud Computing*!:brazil:
+## Olá! Eu sou o Fábio 👋 estudante de *Cloud Computing*! :brazil:
 
 Seja bem-vindo ao meu repositório! Aqui eu vou postar a minha trilha de estudos e conteúdos para minhas revisões📖. A técnologia que eu escolhi para iniciar os meus estudos é a *Cloud* da Microsoft chamada de *Azure*.
 
