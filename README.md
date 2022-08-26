@@ -2,7 +2,7 @@
 
 <p align="center"> Welcome to my workspace! Here is the place where i share my studies, make my reviews, and practice my english. </p>
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&locoColor=white&link=https://github.com/ofabiobatista)](https://github.com/ofabiobatista)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=ghost&locoColor=white&link=https://github.com/ofabiobatista)](https://github.com/ofabiobatista)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkeIn-181717?style=flat-square&logo=LinkedIn&locoColor=white&link=https://github.com/ofabiobatista)](https://github.com/ofabiobatista)
 
 
