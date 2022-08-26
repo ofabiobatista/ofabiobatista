@@ -2,7 +2,7 @@
 
 <p align="center"> Welcome to my workspace! Here is the place where i share my studies, make my reviews, and practice my english. </p>
 
-[![Azure](https://badgen.net/badge/icon/Azure?icon=azure&label)](https://azure.microsoft.com) | ![Github](https://badgen.net/badge/icon/github?icon=github&label)
+[![Azure](https://badgen.net/badge/icon/Azure?icon=azure&label)](https://azure.microsoft.com) | ![Github](https://badgen.net/badge/icon/github?icon=github&label)] (https://github.com/ofabiobatista)
 
 ## About me
 
