@@ -6,8 +6,7 @@
   [![Badges][GitHub]][badges-url]
 </h1>
 
-[![GitHub]: https://img.shields.io/badge/GitHub-FABIOBATISTA-181717?style=for-the-badge&logo=GitHub
-[badges-url]: https://github.com/ofabiobatista
+[![Github](https://img.shields.io/badge/GitHub-FABIOBATISTA-181717?style=for-the-badge&logo=GitHub)](https://github.com/ofabiobatista)
 [![Badge](https://img.shields.io/badge/LinkedIn-FABIOBATISTA-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/faabiobatista/)
 
 ## About me
