@@ -2,8 +2,8 @@
 
 <p align="center"> Welcome to my workspace! Here is the place where i share my studies, make my reviews, and practice my english. </p>
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=ghost&locoColor=white&link=https://github.com/ofabiobatista)](https://github.com/ofabiobatista)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkeIn-181717?style=flat-square&logo=LinkedIn&locoColor=white&link=https://github.com/ofabiobatista)](https://github.com/ofabiobatista)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&locoColor=white&link=https://github.com/ofabiobatista)](https://github.com/ofabiobatista)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkeIn-181717?style=flat-square&logo=LinkedIn&locoColor=white&link=https://www.linkedin.com/in/faabiobatista)](https://www.linkedin.com/in/faabiobatista)
 
 
 ![Windows](https://badgen.net/badge/icon/Windows/0078D6?icon=windows&label) [![Azure](https://badgen.net/badge/icon/Azure/0078D4?icon=azure&label)](https://azure.microsoft.com) [![Github](https://badgen.net/badge/icon/GitHub/181717?icon=github&label)](https://github.com/ofabiobatista) [![linkedIn](https://badgen.net/badge/icon/LinkedIn/0A66C2?icon=linkedin&label)](https://www.linkedin.com/in/faabiobatista/)
