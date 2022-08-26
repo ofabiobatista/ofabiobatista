@@ -2,8 +2,8 @@
 
 <p align="center"> Welcome to my workspace! Here is the place where i share my studies, make my reviews, and practice my english. </p>
 
-![Badge](https://img.shields.io/badge/GitHub-FABIOBATISTA-181717?style=for-the-badge&logo=GitHub)
-![Badge](https://img.shields.io/badge/LinkedIn-FABIOBATISTA-0A66C2?style=for-the-badge&logo=LinkedIn)
+[![Badge](https://img.shields.io/badge/GitHub-FABIOBATISTA-181717?style=for-the-badge&logo=GitHub)](https://github.com/ofabiobatista)
+[![Badge](https://img.shields.io/badge/LinkedIn-FABIOBATISTA-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/faabiobatista/)
 
 [![LinkedIn](https://badgen.net/badge/icon/LinkedIn/0A66C2?icon=linkedin&label)](https://www.linkedin.com/in/faabiobatista/)
 [![Instagram](https://badgen.net/badge/icon/Instagram/E4405F?icon=instagram&label)](https://www.linkedin.com/in/faabiobatista/)
