@@ -6,7 +6,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/faabiobatista/)
 
-![Snake animation](https://www.linkedin.com/in/ofabiobatista/ofabiobatista/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ofabiobatista/ofabiobatista/blob/output/github-contribution-grid-snake.svg)
 
 ## Microsoft Azure <img alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 Azure Fundamentals
