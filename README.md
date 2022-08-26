@@ -1,6 +1,6 @@
 # Olá! Eu sou o Fábio Batista 👋
 
-Seja bem-vindo! Aqui eu vou postar sobre meus estudos e minhas revisões.
+Seja bem-vindo ao meu repositório! Aqui eu vou postar sobre meus estudos e minhas revisões.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/faabiobatista/)
 
