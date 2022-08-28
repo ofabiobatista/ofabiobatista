@@ -1,4 +1,4 @@
-## Olá! Eu sou o Fábio 👋 estudante de *Cloud Computing*! :brazil:
+## Olá! Eu sou o Fábio 👋 estudante de *Cloud Computing*!
 
 📚 Aqui eu vou postar a minha trilha de estudos e conteúdos para minhas revisões. 
 
