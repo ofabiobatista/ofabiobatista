@@ -12,7 +12,7 @@ Microsoft Azure <img alt="Azure" height="30" width="40" src="https://cdn.jsdeliv
 
 <img height= 150px; width= 150px; alt="Azure Fundamentals Badge" src="https://github.com/ofabiobatista/assets/blob/main/microsoft-certified-azure-fundamentals.png?raw=true">
 
-Amazon AWS <img alt="Azure" height="30" width="40" src="https://github.com/ofabiobatista/assets/blob/main/aws-icon.png" />
+Amazon AWS <img alt="Azure" height="48" width="48" src="https://github.com/ofabiobatista/assets/blob/main/aws-icon.png" />
 
 ![Snake animation](https://github.com/ofabiobatista/ofabiobatista/blob/output/github-contribution-grid-snake.svg)
 
