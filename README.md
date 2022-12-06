@@ -10,7 +10,9 @@
 
 Microsoft Azure <img alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 
-<img height= 150px; width= 150px; alt="Azure Fundamentals Badge" src="https://github.com/ofabiobatista/assets/blob/main/microsoft-certified-azure-fundamentals.png?raw=true">
+<a href="https://www.credly.com/badges/17cade24-b7d8-4fe9-81d0-52ab604a4d04/public_url">
+  <img height= 150px; width= 150px; alt="Azure Fundamentals Badge" src="https://github.com/ofabiobatista/assets/blob/main/microsoft-certified-azure-fundamentals.png?raw=true">
+</a>
 
 ![Snake animation](https://github.com/ofabiobatista/ofabiobatista/blob/output/github-contribution-grid-snake.svg)
 
