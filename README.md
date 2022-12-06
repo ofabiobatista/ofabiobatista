@@ -6,13 +6,11 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/faabiobatista/)
 
-## Minhas conquistas
+## Minhas Certificações
 
 Microsoft Azure <img alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 
 <img height= 150px; width= 150px; alt="Azure Fundamentals Badge" src="https://github.com/ofabiobatista/assets/blob/main/microsoft-certified-azure-fundamentals.png?raw=true">
-
-Amazon AWS <img alt="Azure" height="48" width="48" src="https://github.com/ofabiobatista/assets/blob/main/aws-icon.png" />
 
 ![Snake animation](https://github.com/ofabiobatista/ofabiobatista/blob/output/github-contribution-grid-snake.svg)
 
