@@ -31,6 +31,10 @@
 <a href="https://github.com/ofabiobatista/assets/blob/main/aws-cloud-practitioner.png">
 <img height= 120px; width= 120px; alt="Azure Fundamentals Badge" src="https://github.com/ofabiobatista/assets/blob/main/aws-cloud-practitioner.png">
 </a>
+
+<a href="https://github.com/ofabiobatista/assets/blob/main/focp.png">
+<img height= 120px; width= 120px; alt="Azure Fundamentals Badge" src="https://github.com/ofabiobatista/assets/blob/main/focp.png">
+</a>
   
 <!-- ![Snake animation](https://github.com/ofabiobatista/ofabiobatista/blob/output/github-contribution-grid-snake.svg)
 
