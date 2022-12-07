@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://www.credly.com/badges/79f0a23b-f3fb-4869-a779-a816bf8d9db2/public_url">
-  <img height= 120px; width= 120px; alt="Azure Fundamentals Badge" src="https://github.com/ofabiobatista/assets/blob/main/aws-academy-icon.png">
+  <img height= 120px; width= 120px; alt="AWS Academy" src="https://github.com/ofabiobatista/assets/blob/main/aws-academy-icon.png">
 </a>
 
 ## 🚀 Roadmap de Futuras Certificações
