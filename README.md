@@ -14,7 +14,7 @@
   <img height= 120px; width= 120px; alt="AWS Academy Badge" src="https://github.com/ofabiobatista/assets/blob/main/aws-academy-icon.png">
 </a>
 
-## 🚀 Roadmap de Futuras Certificações
+## 🧭 Roadmap de Futuras Certificações
 
 <a href="https://github.com/ofabiobatista/assets/blob/main/dp-900.png">
 <img height= 120px; width= 120px; alt="Azure Fundamentals Badge" src="https://github.com/ofabiobatista/assets/blob/main/dp-900.png">
