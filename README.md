@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://www.credly.com/badges/79f0a23b-f3fb-4869-a779-a816bf8d9db2/public_url">
-  <img height= 150px; width= 150px; alt="Azure Fundamentals Badge" src="https://github.com/ofabiobatista/assets/blob/main/microsoft-certified-azure-fundamentals.png?raw=true">
+  <img height= 150px; width= 150px; alt="Azure Fundamentals Badge" src="https://github.com/ofabiobatista/assets/blob/main/aws-academy-icon.png">
 </a>
 
 ![Snake animation](https://github.com/ofabiobatista/ofabiobatista/blob/output/github-contribution-grid-snake.svg)
