@@ -2,17 +2,19 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/faabiobatista/)
 
-## Minhas Certificações
+## 🏅 Minhas Certificações
 
 <!-- Microsoft Azure <img alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /> -->
 
 <a href="https://www.credly.com/badges/17cade24-b7d8-4fe9-81d0-52ab604a4d04/public_url">
-  <img height= 150px; width= 150px; alt="Azure Fundamentals Badge" src="https://github.com/ofabiobatista/assets/blob/main/microsoft-certified-azure-fundamentals.png?raw=true">
+  <img height= 120px; width= 120px; alt="Azure Fundamentals Badge" src="https://github.com/ofabiobatista/assets/blob/main/microsoft-certified-azure-fundamentals.png?raw=true">
 </a>
 
 <a href="https://www.credly.com/badges/79f0a23b-f3fb-4869-a779-a816bf8d9db2/public_url">
-  <img height= 150px; width= 150px; alt="Azure Fundamentals Badge" src="https://github.com/ofabiobatista/assets/blob/main/aws-academy-icon.png">
+  <img height= 120px; width= 120px; alt="Azure Fundamentals Badge" src="https://github.com/ofabiobatista/assets/blob/main/aws-academy-icon.png">
 </a>
+
+## 🚀 Próximas Certificações
 
 <!-- ![Snake animation](https://github.com/ofabiobatista/ofabiobatista/blob/output/github-contribution-grid-snake.svg)
 
