@@ -1,4 +1,4 @@
-## Olá! Eu sou o Fábio 👋 estudante de *Cloud Computing*!
+## Olá! Eu sou o Fábio 👋 profissional que soma mais de 10 anos de experiência, atualmente em formação na carreira de *Cloud Computing*!
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/faabiobatista/)
 
