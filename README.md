@@ -14,8 +14,24 @@
   <img height= 120px; width= 120px; alt="Azure Fundamentals Badge" src="https://github.com/ofabiobatista/assets/blob/main/aws-academy-icon.png">
 </a>
 
-## 🚀 Próximas Certificações
+## 🚀 Roadmap de Futuras Certificações
 
+<a href="https://github.com/ofabiobatista/assets/blob/main/dp-900.png">
+<img height= 120px; width= 120px; alt="Azure Fundamentals Badge" src="https://github.com/ofabiobatista/assets/blob/main/dp-900.png">
+</a>
+
+<a href="https://github.com/ofabiobatista/assets/blob/main/sc-900.png">
+<img height= 120px; width= 120px; alt="Azure Fundamentals Badge" src="https://github.com/ofabiobatista/assets/blob/main/sc-900.png">
+</a>
+
+<a href="https://github.com/ofabiobatista/assets/blob/main/az-104.png">
+<img height= 120px; width= 120px; alt="Azure Fundamentals Badge" src="https://github.com/ofabiobatista/assets/blob/main/az-104.png">
+</a>
+
+<a href="https://github.com/ofabiobatista/assets/blob/main/aws-cloud-practitioner.png">
+<img height= 120px; width= 120px; alt="Azure Fundamentals Badge" src="https://github.com/ofabiobatista/assets/blob/main/aws-cloud-practitioner.png">
+</a>
+  
 <!-- ![Snake animation](https://github.com/ofabiobatista/ofabiobatista/blob/output/github-contribution-grid-snake.svg)
 
 ## Microsoft Azure <img alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
