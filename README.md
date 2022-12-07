@@ -35,6 +35,18 @@
 <a href="https://github.com/ofabiobatista/assets/blob/main/focp.png">
 <img height= 120px; width= 120px; alt="Azure Fundamentals Badge" src="https://github.com/ofabiobatista/assets/blob/main/focp.png">
 </a>
+
+<hr />
+
+📖 Exame DP-900: Fundamentos de dados do Microsoft Azure (Em andamento) - <a href="https://learn.microsoft.com/pt-br/certifications/exams/dp-900"> Microsoft Learn </a> e <a href="https://www.youtube.com/playlist?list=PL_yq9hmeKAk9hc_FGAKHl-hI66GRjLa4P"> YouTube - MVP Henrique Eduardo Souza. </a>
+
+📘 Exame SC-900: Fundamentos de segurança, conformidade e identidade da Microsoft (Em breve) - <a href="https://learn.microsoft.com/pt-br/certifications/exams/sc-900"> Microsoft Learn. </a>
+
+📘 Exame AZ-104: Administradores do Microsoft Azure (Em breve) - <a href="https://learn.microsoft.com/pt-br/certifications/exams/az-104"> Microsoft Learn. </a>
+
+📘 AWS Certified Cloud Practitioner (Em breve) - <a href="https://aws.amazon.com/pt/certification/certified-cloud-practitioner/"> AWS Skill Builder. </a>
+
+📘 FinOps Certified Practitioner (Em breve) - <a href="https://www.finops.org/introduction/what-is-finops/"> FinOps Foundation. </a>
   
 <!-- ![Snake animation](https://github.com/ofabiobatista/ofabiobatista/blob/output/github-contribution-grid-snake.svg)
 
