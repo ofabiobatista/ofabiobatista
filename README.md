@@ -38,7 +38,7 @@
 
 <hr />
 
-📖 Exame DP-900: Fundamentos de dados do Microsoft Azure (Em andamento) - <a href="https://learn.microsoft.com/pt-br/certifications/exams/dp-900"> Microsoft Learn </a> e <a href="https://www.youtube.com/playlist?list=PL_yq9hmeKAk9hc_FGAKHl-hI66GRjLa4P"> YouTube - MVP Henrique Eduardo Souza. </a>
+📘 Exame DP-900: Fundamentos de dados do Microsoft Azure (Em breve) - <a href="https://learn.microsoft.com/pt-br/certifications/exams/dp-900"> Microsoft Learn </a> e <a href="https://www.youtube.com/playlist?list=PL_yq9hmeKAk9hc_FGAKHl-hI66GRjLa4P"> YouTube - MVP Henrique Eduardo Souza. </a>
 
 📘 Exame SC-900: Fundamentos de segurança, conformidade e identidade da Microsoft (Em breve) - <a href="https://learn.microsoft.com/pt-br/certifications/exams/sc-900"> Microsoft Learn. </a>
 
